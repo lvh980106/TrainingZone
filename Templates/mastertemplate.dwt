@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>TrainingZone</title>
+<!-- TemplateEndEditable -->
+<link href="../css/mastercss.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<h1>
+Training Zone
+</h1>
+<table width="600" border="1">
+  <tbody>
+    <tr>
+      <td><a href="../index.html">Home</a></td>  
+      <td><a href="../training_article.html">Training Article</a></td>
+      <td><a href="../announcement.html">Announcement</a></td>
+      <td><a href="../our_trainers.html">Our Trainers</a></td>  
+    </tr>
+  </tbody>
+</table>
+<!-- TemplateBeginEditable name="Edityoumdfker" -->Edityoumdfker<!-- TemplateEndEditable -->
+
+
+
+
+<div id="footer">
+<h4>Contact Us</h4>
+<ul>
+<li>Phone: 07 4779 1243</li>
+<li>Fax: 4779 1244</li>
+<li>Address: 12 Plongk Street, Cairnsville, Queensland</li>
+<li>Email: training@trainingzone.com.au</li>
+</ul>
+</div>
+</body>
+</html>
